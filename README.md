@@ -1,7 +1,3 @@
-Your project report is below in a formal academic format. It also corrects some inconsistencies in the notebook (for example, customer churn is a **classification** problem where **Churn** should be the target variable, whereas parts of the notebook mistakenly used `MonthlyCharges` and `tenure` as X and y).
-
-# **Project Report**
-
 # **Customer Churn Prediction Using Machine Learning**
 
 ## Abstract
